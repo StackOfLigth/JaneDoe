@@ -1,0 +1,35 @@
+
+
+main {
+    padding-top: 20px;
+    margin-top: 100px;
+}
+
+.destac-musica {
+    margin-left: 200px;
+    margin-bottom: 30px;
+}
+
+.container-video {
+    margin-left: 200px;
+}
+
+.video1 {
+    border: 5px solid;
+}
+
+.video2 {
+    border: 5px solid;
+}
+
+.container-video .lista-itens {
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-bottom: 20px;
+}
+
+.container-video p {
+    line-height: 2rem;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}

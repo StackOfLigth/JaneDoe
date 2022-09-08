@@ -1,0 +1,71 @@
+
+
+main {
+    margin-top: 150px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 20px;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.container-formulario {
+    width: 50%;
+    margin-top: 50px;
+}
+
+.formulario {
+    width: 100%;
+    padding-left: 20px;
+    font-weight: 5rem;   
+}
+
+.inp{
+    width: 100%;
+}
+
+input:not(:has([type="checkbox"]:checked)) {
+    color: blue;
+}
+button {
+    color: white;
+    background-color: red;
+}
+
+button:hover{
+    transition: all 2s linear;
+    background-color: repeating-radial-gradient(red, rgb(255, 0, 230), rebeccapurple);
+    font-size: large;
+    font-weight: bold;
+}
+.container-map {
+    width: 50%;  
+}
+
+.map {
+    width: 100%;
+    padding-top: 5px;
+    padding-left: 20px;   
+}
+
+.container-cep {
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    width: 100%;   
+}
+
+.itens-info {
+    width: 100%;
+    font-weight: 5rem;
+    border-top:2px solid grey;
+    padding-top: 15px;
+    padding-bottom: 5px;   
+}

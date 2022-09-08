@@ -1,0 +1,98 @@
+
+
+.imagem-jane {
+    
+    display: block;
+}
+
+.imgjane {
+    width: 100%;
+}
+
+.text-jane {
+    margin-top: 50px    ;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 150px;
+    display: block;
+    text-align: justify; 
+}
+
+section {
+    margin: 0;
+    padding: 0;
+}
+
+article {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    text-align: justify;
+}
+
+ol {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(240, 173, 16);
+}
+
+.music-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 0%;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.img-banner {
+   width: 50%;
+   padding-right: 100px;
+}
+
+.img-banner img{
+    width: 100%;
+    margin-right: 20px;
+}
+
+.lista-music {
+    width: 50%;   
+}
+
+.lista-music ol {
+    width: 100%;
+}
+
+.lista-music ol li {
+    width: 100%;
+}
+
+.destac-music {
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+.destac-music:hover{
+    transform: all 3s;
+    color: black;
+    font-weight: bold;
+    background: fixed rgb(235, 215, 165);
+}
+
+.copy footer {
+    background: rgb(177, 175, 175);
+    width: 100%;
+    padding: 5px 0;
+    margin: 0;
+    text-align: center;
+}
