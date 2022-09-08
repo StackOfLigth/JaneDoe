@@ -28,9 +28,10 @@ main {
     width: 100%;
 }
 
-input:not(:has([type="checkbox"]:checked)) {
-    color: blue;
+label:has([type="checkbox"]:checked) {
+    color: red;
 }
+
 button {
     color: white;
     background-color: red;
