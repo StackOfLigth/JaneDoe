@@ -22,14 +22,14 @@ header {
     padding: 0;
 } 
 
-.nome-jane {
+/* .nome-jane {
     position: relative ;
     text-transform: uppercase;
     color: black;
     margin-bottom: 5px;  
     animation: neonJane 3s alternate infinite ease-in-out;
     
-}
+} */
 
 .nome-jane:hover {
     transition: all .5s;

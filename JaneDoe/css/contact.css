@@ -35,6 +35,8 @@ label:has([type="checkbox"]:checked) {
 button {
     color: white;
     background-color: red;
+    border-radius: 5px;
+    width: 50px;
 }
 
 button:hover{
