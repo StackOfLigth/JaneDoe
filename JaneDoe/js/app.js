@@ -1,3 +1,3 @@
-let titulo = document.querySelector('nome-jane')
+/* let titulo = document.querySelector('nome-jane')
 console.log(titulo)
-titulo.innerText = '<em>Jane Doe</em>'
+titulo.innerText = '<em>Jane Doe</em>' */
